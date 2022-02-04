@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
 
+        <h1>Ömer Can Uyar</h1>
+
+        <h3>Hakkımda</h3>
+
+        <b>Merhabalar, Adım Ömer Can Uyar.</b>
+
+        <h2>Sevdiğim Diziler</h2>
+
+        <h4>Shameless</h4>
+        <h4>Börü 2039</h4>
+        <h4>The Witcher</h4>
+
+
+</body>
+</html>
